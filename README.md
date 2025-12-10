@@ -12,9 +12,13 @@
   </a>
 </p>
 
+
 ```diff
 - CRAMMER
 - Procrastinator
+
++ Adaptable
++ 
 ```
 
 <p align="center">
