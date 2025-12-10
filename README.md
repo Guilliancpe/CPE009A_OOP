@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **qgcignacio@tip.edu.ph**
 
-<h3 align="left">Facebook: Guillian Carlo Ignacio</h3>
-<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
