@@ -12,14 +12,16 @@
   </a>
 </p>
 
+```ascii
+          🦖
+          ║
+          ║     🌵      🌵        🌵
+══════════╩═══════════════════════════════════
 
 
 ```diff
-<p align ="left"> 
 - CRAMMER
 - Procrastinator
-</a>
-</p>
 ```
 
 <p align="center">
