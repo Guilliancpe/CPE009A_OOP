@@ -12,12 +12,8 @@
   </a>
 </p>
 
-```ascii
-          🦖
-          ║
-          ║     🌵      🌵        🌵
-══════════╩═══════════════════════════════════
-```
+[![Dino Game](https://em-content.zobj.net/thumbs/240/apple/354/t-rex_1f996.png)](https://chromedino.com/)
+
 
 ```diff
 - CRAMMER
