@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guillian Carlo V. Ignacio</h1>
+<mark><h1 align="center">Hi 👋, I'm Guillian Carlo V. Ignacio</h1></mark>
 <h3 align="center">A CPE12S1 STUDENT</h3>
 
 - 📫 How to reach me **qgcignacio@tip.edu.ph**
