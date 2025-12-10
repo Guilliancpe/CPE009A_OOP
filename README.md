@@ -15,13 +15,15 @@
 
 
 ```diff
+<p align ="left"> 
 - CRAMMER
 - Procrastinator
-
+</a>
+</p>
 ```
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlvMm13dTYwdzc1OWIybGMzOG03eGpiZnhiOWM1czJvaHU3dHgwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekGDkpNdG0LUOIN2We/giphy.gif" alt="python" width="1000" height="400"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlvMm13dTYwdzc1OWIybGMzOG03eGpiZnhiOWM1czJvaHU3dHgwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekGDkpNdG0LUOIN2We/giphy.gif" alt="python" width="400" height="400"/>
   </a>
 </p>
