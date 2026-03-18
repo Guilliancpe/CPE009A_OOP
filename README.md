@@ -18,7 +18,7 @@
 - Procrastinator
 
 + Adaptable
-+ 
++ Average
 ```
 
 <p align="center">
